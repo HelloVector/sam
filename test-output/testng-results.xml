@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-16T22:21:02 IST" name="Default suite" finished-at="2022-02-16T22:21:02 IST" duration-ms="93">
+    <groups>
+    </groups>
+    <test started-at="2022-02-16T22:21:02 IST" name="Default test" finished-at="2022-02-16T22:21:02 IST" duration-ms="93">
+      <class name="TestNGextra.Priority">
+        <test-method signature="Subrat()[pri:-89, instance:TestNGextra.Priority@57a3af25]" started-at="2022-02-16T22:21:02 IST" name="Subrat" finished-at="2022-02-16T22:21:02 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subrat -->
+        <test-method signature="Sonali()[pri:-80, instance:TestNGextra.Priority@57a3af25]" started-at="2022-02-16T22:21:02 IST" name="Sonali" finished-at="2022-02-16T22:21:02 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sonali -->
+        <test-method signature="Jagadish()[pri:-69, instance:TestNGextra.Priority@57a3af25]" started-at="2022-02-16T22:21:02 IST" name="Jagadish" finished-at="2022-02-16T22:21:02 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jagadish -->
+      </class> <!-- TestNGextra.Priority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
